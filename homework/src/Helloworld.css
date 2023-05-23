@@ -1,0 +1,6 @@
+.hello {
+    background: linear-gradient(rgb(54, 122, 145),rgb(24, 134, 115),rgb(0, 255, 251));
+    padding: 150px 150px 150px 150px;
+    margin: 200px 400px 200px 400px;
+    color: aliceblue;
+}
