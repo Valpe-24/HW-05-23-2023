@@ -1,6 +1,19 @@
 .hello {
-    background: linear-gradient(rgb(54, 122, 145),rgb(24, 134, 115),rgb(0, 255, 251));
-    padding: 150px 150px 150px 150px;
-    margin: 200px 400px 200px 400px;
-    color: aliceblue;
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: rgb(191, 205, 220);
+  padding: 150px 150px 150px 150px;
+  margin: 200px 400px 200px 400px;
+  color: aliceblue;
+  outline: solid 5px rgb(109, 3, 123);
+
+  background: linear-gradient(
+    45deg,
+    rgb(124, 45, 138),
+    rgb(33, 83, 198),
+    rgb(28, 165, 196),
+    rgb(33, 83, 198),
+    rgb(124, 45, 138)
+  );
 }

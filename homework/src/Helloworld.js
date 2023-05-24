@@ -3,6 +3,6 @@ import './Helloworld.css';
 
 export const Helloworld = () => {
   return (
-    <div className='hello'>Hello, World!</div>
+    <div className='hello'>Hello,World!</div>
   )
 }
